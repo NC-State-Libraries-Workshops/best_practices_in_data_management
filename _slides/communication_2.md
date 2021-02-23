@@ -14,7 +14,7 @@ order: 150
            alt="Future self meme"/>
     </figure>
   </div>
-  <div class="small two-col left">
+  <div class="x-large two-col left">
     <h3>Who Is Communicating?</h3>
     <ul>
       <li>Project Members</li>

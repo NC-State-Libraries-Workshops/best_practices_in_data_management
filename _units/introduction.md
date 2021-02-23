@@ -8,7 +8,7 @@ order: 0    # Determines the order of units. Doesn't need to be consecutive thou
 
 duration: 10 # A hint to how long it will take to cover this topic in mintues.
 
-tutorial: false  # Set to true if you want this page displayed as a web page
+tutorial: true  # Set to true if you want this page displayed as a web page
 instructors_notes: true  # Set to true if you want this displayed in instructors notes
 
 # Provide a brief description of what the unit is about. You can use markdown

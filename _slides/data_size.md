@@ -11,11 +11,11 @@ order: 95
   <div class="two-col left">
   
     <figure>
-      <img src="{{ site.baseurl }}/assets/img/slides/data_size_dist.jpg" alt="Just a sample image"/>
+      <img src="{{ site.baseurl }}/assets/img/slides/data_size_dist.jpg" alt="Just a sample image"  width="600"/>
     </figure>
   
   </div>
-  <div class="small two-col right">
+  <div class="two-col right">
     <ul>
       <li class="fragment">How big will your files be?</li>
       <li class="fragment">How many files will you generate?</li>

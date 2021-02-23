@@ -7,7 +7,7 @@ order: 55
 ## What Should You Be Managing?
 
 <div>
-  <div class="small two-col left">
+  <div class="smaller two-col left">
     <ul>
         <li class="fragment">The Data</li>
         <li class="fragment">Analysis codes</li>

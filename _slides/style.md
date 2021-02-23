@@ -8,7 +8,7 @@ order: 130
 
 <div>
   
-  <div class="small two-col left">
+  <div class="x-large two-col left">
     <h3>Create a style guide</h3>
     <ul>
         <li>How to name files, functions, variables...</li>

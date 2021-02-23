@@ -9,7 +9,7 @@ order: 90
 
 <div>
   
-  <div class="small two-col left fragment">
+  <div class="two-col left fragment">
     <h3>You want&#8230;</h3>
     <ul>
         <li class="fragment">
@@ -36,7 +36,7 @@ order: 90
         <li class="fragment">Versioning</li>
     </ul>
   </div>
-  <div class="small two-col right fragment">
+  <div class="two-col right fragment">
     <h3>Options</h3>
     <ul>
         <li>Campus IT (OIT)</li>

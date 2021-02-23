@@ -7,7 +7,7 @@ order: 120
 <h2>Naming Things</h2>
 
 <div>
-  <div class="small two-col left fragment">
+  <div class="x-large two-col left fragment">
     <h3>Temperature</h3>
     <ul>
         <li class="no">
@@ -29,9 +29,9 @@ order: 120
     </ul>
   </div>
   
-  <div class="small two-col right fragment">
+  <div class="x-large two-col right fragment">
     <h3>Working With Dates</h3>
-    <ul class="smallest">
+    <ul>
         <li class="no">
             image_120702.png
             <ul><li>December, July or February?</li></ul>

@@ -15,7 +15,7 @@ order: 100
     </figure>
   </div>
   
-  <div class="small two-col right">
+  <div class="x-large two-col right">
     <h3> The Directory Structure Should Be&#8230;</h3>
     <ul>
         <li>

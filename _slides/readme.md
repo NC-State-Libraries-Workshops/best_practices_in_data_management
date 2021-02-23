@@ -9,10 +9,10 @@ order: 180
   <div class="two-col left">
     <figure>
       <img src="{{ site.baseurl }}/assets/img/slides/readme_meme.jpg" 
-           alt="README meme" width="350" />
+           alt="README meme" width="400" />
     </figure>
   </div>
-  <div class="two-col right small">
+  <div class="two-col right smaller">
     <ul>
         <li>Do It First</li>
         <li>

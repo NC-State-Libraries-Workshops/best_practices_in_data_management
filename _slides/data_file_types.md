@@ -7,7 +7,7 @@ order: 90
 ## File Types
 
 <div>
-  <div class="small two-col left">
+  <div class=" two-col left">
     <ul>
       <li class="fragment">Favor Open File Types
          <ul>

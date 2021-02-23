@@ -9,7 +9,7 @@ order: 105
 
 <div>
     <h3>Names Should &hellip;</h3>
-    <ul class="small">
+    <ul>
         <li class="fragment">BE CONSISTENT!!</li>
         <li class="fragment">Not be too long or short</li>
         <li class="fragment">Not repeat yourself</li>

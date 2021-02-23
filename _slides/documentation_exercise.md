@@ -8,7 +8,7 @@ order: 220
 
 ## Develop a Metadata and Documentation Strategy 
 
-<ul class="small">
+<ul class="x-large">
     <li>What metadata is collected automatically?</li>
     <li>
         Where will you record your documentation?

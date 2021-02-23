@@ -6,7 +6,7 @@ order: 70
 
 ## Things to Decide
 
-<ul class="small">
+<ul class="">
   <li class="fragment">Personnel, Roles, Abilities, Responsibilities</li>
   <li class="fragment">What data you will be working with</li>
   <li class="fragment">File storage</li>

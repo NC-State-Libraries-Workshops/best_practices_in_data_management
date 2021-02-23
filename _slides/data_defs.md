@@ -23,7 +23,7 @@ order: 50
 
 </div>
 
-<blockquote class="small fragment"> 
+<blockquote class="smaller fragment"> 
 <p>
 <strong>Office of Science and Technology Policy</strong>
 digital recorded factual material commonly accepted in the scientific community as necessary to

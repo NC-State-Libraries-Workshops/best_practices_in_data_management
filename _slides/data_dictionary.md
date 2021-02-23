@@ -6,7 +6,7 @@ order: 190
 
 ## Data Dictionaries
 <div>
-  <div class="small two-col left">
+  <div class="smaller two-col left">
     <dl>
       <dt>temperature</dt>
       <dd><strong>description: </strong>The surface temperature on mars</dd>

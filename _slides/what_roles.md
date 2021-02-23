@@ -7,7 +7,7 @@ order: 75
 ## Roles, Abilities and Responsibilities?
 
 <div>
-    <div class="small three-col left fragment">
+    <div class="three-col left fragment">
         <h3>Roles</h3>
         <ul>
             <li>Owner</li>
@@ -17,7 +17,7 @@ order: 75
             <li>...</li>
         </ul>
     </div>
-    <div class="small three-col middle fragment">
+    <div class="three-col middle fragment">
         <h3>Abilities</h3>
         <ul>
             <li>Create</li>
@@ -27,7 +27,7 @@ order: 75
             <li>...</li>
         </ul>
     </div>
-    <div class="small three-col right fragment">
+    <div class="three-col right fragment">
         <h3>Responsibilities</h3>
         <ul>
             <li>Policy</li>

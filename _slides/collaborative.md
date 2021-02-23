@@ -9,7 +9,7 @@ order: 40
 
 <div>
   
-  <div class="small two-col left">
+  <div class="large two-col left">
     <blockquote>
         If you have an apple and I have an apple and we exchange these apples then you 
         and I will still each have one apple. But if you have an idea and I have an 
@@ -25,4 +25,6 @@ order: 40
         <li>Collaboration</li>
     </ul>
   </div>
+  <div class="">
+  <br/><br/><h2>Any Questions So Far?</h2></div>
 </div>
